@@ -1,0 +1,81 @@
+#card{
+	position: absolute;
+	position: absolute;
+	width: 300px;
+	height: 526px;
+	left: calc(50% - 300px/2 + 0.5px);
+	top: calc(50% - 526px/2 - 25px);
+
+	border: 2px solid #66500C;
+	box-shadow: 0px 0px 6px rgba(38, 29, 0, 0.8);
+	border-radius: 10px;
+}
+.image{
+	box-shadow: 0px 4px 4px rgba(74, 56, 2, 0.25);
+	border-radius: 8px 8px 0px 0px;
+}
+.box{
+	position: absolute;
+	width: 140px;
+	height: 40px;											
+	left: calc(50% - 140px/2 - 81.5px);
+	top: calc(50% - 40px/2 - 58px);	
+	background: #AA8A4C;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 0px 5px 5px 0px;
+}
+.title{
+	position: absolute;
+	width: 118px;
+	height: 29px;
+	left: calc(50% - 118px/2 - 80.5px);
+	top: calc(50% - 29px/2 - 58.5px);
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	font-size: 24px;
+	color: #0F1E3D;
+}
+.fact{
+	position: absolute;
+	width: 212px;
+	height: 40px;
+	left: 340px;
+	top: 418px;
+
+	background: #AA8A4C;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.list{
+	position: absolute;
+	width: 300px;
+	height: 216px;
+	left: 38px;
+	top: 428px;
+}
+ul {
+	list-style-type: none;
+}
+/*li {
+	position: absolute;
+	width: 59px;
+	height: 66px;
+	left: 48px;
+	top: 448px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	font-size: 14px;
+
+	color: #F2F2F2;
+}*/
+.seperate{
+	position: absolute;
+width: 300px;
+height: 216px;
+left: 38px;
+top: 428px;
+}
